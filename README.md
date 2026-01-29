@@ -14,7 +14,7 @@ Painel de controle para visualização rápida de KPIs, metas mensais e fluxo de
 
 | Dashboard de Vendas | Controle Financeiro |
 |:---:|:---:|
-| ![Dashboard Principal](link-da-imagem-c8b17c.png) | ![Financeiro](link-da-imagem-c8a61d.png) |
+| ![Dashboard Principal](https://github.com/thabus/portfolio-erp/blob/main/assets/metas.png) | ![Financeiro](https://github.com/thabus/portfolio-erp/blob/main/assets/financas.png) |
 
 ---
 
@@ -23,7 +23,7 @@ Módulo para gestão de demandas de TI e operacionais.
 * **Workflow Completo:** `Aberto` → `Em Andamento` → `Pendente` → `Resolvido` → `Fechado`.
 * **Regra de Negócio Automatizada:** Implementação de uma lógica no Backend que aguarda **24 horas** após um chamado ser marcado como "Resolvido". Se não houver contestação, o sistema altera o status automaticamente para "Fechado", bloqueando edições futuras para garantir a integridade histórica do atendimento.
 
-![Detalhe do Chamado](link-da-imagem-e13dc0.png)
+![Detalhe do Chamado](https://github.com/thabus/portfolio-erp/blob/main/assets/sistema-de-chamados.png)
 
 ---
 
@@ -32,7 +32,7 @@ O sistema foi projetado com metodologia *Mobile First*. Menus, tabelas e modais 
 
 | Menu Mobile | Busca Responsiva |
 |:---:|:---:|
-| ![Menu Mobile](link-da-imagem-c89eb6.png) | ![Busca Mobile](link-da-imagem-c89e3c.png) |
+| ![Menu Mobile](https://github.com/thabus/portfolio-erp/blob/main/assets/icones-mobile.png) | ![Busca Mobile](https://github.com/thabus/portfolio-erp/blob/main/assets/mobile-historico-compras.png) |
 
 ---
 
@@ -77,5 +77,5 @@ Este projeto apresentou desafios técnicos significativos que elevaram meu níve
 
 ## 📬 Contato
 Desenvolvido por **Thaís Bustamante**.
-* [Seu LinkedIn]
-* [Seu E-mail]
+* [https://www.linkedin.com/in/tha%C3%ADs-bustamante/]
+* [thais.bustamante@outlook.com]
